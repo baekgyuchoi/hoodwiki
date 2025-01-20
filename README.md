@@ -1,3 +1,45 @@
+## HoodWiki
+
+HoodWiki is a passion project that puts a comedic twist on the concept of a simplified Wikipedia. It presents articles from Wikipedia in "hood language," offering a humorous and entertaining way to consume information. This passion project aims to bring a lighthearted approach to learning and engage users with its unique style.
+
+
+## Features
+
+Wikipedia articles translated into "hood language"
+Entertaining and comedic presentation of information
+Simplified content for easier understanding
+Engaging user experience with a fun and casual tone
+
+## Technologies Used
+
+Next.js: A React framework for building server-side rendered and statically generated web applications
+TypeScript: A typed superset of JavaScript that compiles to plain JavaScript
+Prisma: An open-source database toolkit for Node.js and TypeScript
+MySQL: A popular open-source relational database management system
+shadcn UI: A UI component library for building modern web applications
+
+
+## Usage
+
+Explore the HoodWiki articles and enjoy the comedic translations
+Search for specific topics or articles using the search functionality
+Share your favorite HoodWiki articles with friends for a good laugh
+Contribute to the project by suggesting new article translations or improvements
+
+## Acknowledgements
+
+Wikipedia
+Next.js
+TypeScript
+Prisma
+MySQL
+shadcn UI
+
+Contact
+For any inquiries, feedback, or if you just want to share a laugh, please contact the project maintainer at tonychoi3580@gmail.com.
+Remember, HoodWiki is all about having fun and bringing a smile to your face while learning something new. So, sit back, relax, and enjoy the hood knowledge!
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
